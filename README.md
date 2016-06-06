@@ -1,7 +1,7 @@
 ## Overview
 
 This script simplifies the process of downloading high resolution DEMs, combining them into a raster dataset and clipping out
-a shapefile that covers multiple tiles. This script also works for shapefiles whose extent only covers one tile.
+a shapefile that covers multiple tiles. This script also works for shapefiles whose extent only covers one tile. This script currently requires a license for Esri's ArcMap Desktop/Server or ArcGIS Pro software and Esri's Spatial Analyst extension.
 
 ## Usage
 
